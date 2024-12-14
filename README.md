@@ -4,7 +4,7 @@ Open the VisionAndLanguageProjectFileToRun.pynb file and Press Run all on Google
 It will collect the required datasets and then train and test. If you do not want to train then click every cell in the .pynb file except the cell in which train command is written.
 
 Checkpoints are present at https://drive.google.com/drive/folders/1-ME8FdUiq9fn6Ni6kEoTAJKZSqITShhw?usp=sharing
-If the above link is not working then use the phi_000013000.pt checkpoint uploaded on this GitHub repository.
+If the above link is not working then use the phi_000023000.pt checkpoint uploaded on this GitHub repository.
 
 ## 📚 How to Train LinCIR
 Train LinCIR with ease using the following command:
